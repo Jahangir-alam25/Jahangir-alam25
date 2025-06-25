@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.ibb.co/Z662Kq8D/Github-Cover-MERN-Stack-Developer.png" alt="MERN Stack Developer Banner" width="100%" hight="300" />
+<img src="https://i.ibb.co/Z662Kq8D/Github-Cover-MERN-Stack-Developer.png" alt="MERN Stack Developer Banner"  />
 
 <h1 align="center">Hi 👋, I'm Jahangir Alam</h1>
 <h3 align="center">MERN Stack Web Developer</h3>
