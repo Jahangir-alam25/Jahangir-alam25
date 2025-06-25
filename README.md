@@ -30,7 +30,6 @@ I love building fast, secure, and user-friendly web applications.
     <td>Languages</td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-     
     </td>
   </tr>
   <tr>
@@ -40,7 +39,6 @@ I love building fast, secure, and user-friendly web applications.
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-      
     </td>
   </tr>
   <tr>
@@ -48,14 +46,12 @@ I love building fast, secure, and user-friendly web applications.
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-      
     </td>
   </tr>
   <tr>
     <td>Database</td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-     
     </td>
   </tr>
   <tr>
