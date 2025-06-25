@@ -1,58 +1,62 @@
-<!-- GitHub Cover Image -->
-<img src="https://i.ibb.co/Z662Kq8D/Github-Cover-MERN-Stack-Developer.png" alt="MERN Stack Developer" width="100%"/>
+<!-- Banner Image -->
+<img src="https://i.ibb.co/Z662Kq8D/Github-Cover-MERN-Stack-Developer.png" alt="MERN Stack Developer Banner" width="100%" />
 
-## 👋 Hi there, I'm Jahangir Alam
-
-I'm a passionate **Full Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React, Node.js)**. I love building modern, scalable web applications that solve real-world problems and enhance user experience.
-
----
-
-### 🚀 Tech Stack
-
-**Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Redux, Tailwind CSS, Bootstrap
-
-**Backend:**
-- Node.js, Express.js
-- RESTful APIs, Authentication (JWT/Firebase)
-
-**Database:**
-- MongoDB, Mongoose
-
-**Tools & Others:**
-- Git & GitHub
-- Firebase, Vercel, Netlify
-- Postman, VS Code
+<h1 align="center">Hi 👋, I'm Jahangir Alam</h1>
+<h3 align="center">MERN Stack Web Developer</h3>
 
 ---
 
-### 💼 Projects
+## 🧑‍💻 About Me
 
-Here are a few of my featured projects:
+I am a passionate MERN Stack Developer from Bangladesh.  
+I love building fast, secure, and user-friendly web applications.  
 
-- 📦 **Parcel Delivery Website** – Real-time tracking, branch coverage, and Firebase Auth
-- 🎯 **CareerCode Platform** – A job marketplace for employers and job seekers
-- 🛍️ **E-commerce App** – Dynamic cart, payment integration, and user dashboard
-
-Check out more in my [repositories](https://github.com/jahangir1408?tab=repositories)!
-
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jahangir-alam-dev)
-- 📧 Email: `jahangir.dev1408@gmail.com`
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) <!-- Replace with your real portfolio URL -->
+🔍 **Currently Exploring**:  
+- Learning **Next.js** for server-side rendering  
+- Building a **Tourism Booking Website**  
+- Contributing to open-source projects  
+- Practicing coding and solving problems on platforms like LeetCode
 
 ---
 
-### 📈 GitHub Stats
+## 💻 My Skills
 
-![Jahangir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahangir1408&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir1408&layout=compact&theme=react)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,firebase,vercel" alt="My Skills" />
+</p>
 
 ---
 
-*Thanks for visiting my profile! Feel free to explore my work or reach out to collaborate.*
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jahangir-alam-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jahangir.dev1408@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/jahangir1408" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahangir1408&show_icons=true&theme=github_dark&hide_border=true" alt="Jahangir's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir1408&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jahangir1408&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile!*  
+*Feel free to explore my repositories and reach out for collaboration.*
+
+
 
