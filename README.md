@@ -1,5 +1,5 @@
 <!-- Cover Photo -->
-<img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
+<img src="https://i.ibb.co/Z662Kq8D/Github-Cover-MERN-Stack-Developer.png" alt="Cover" width="100%" />
 
 ---
 
