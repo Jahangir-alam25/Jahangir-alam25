@@ -1,10 +1,10 @@
 <!-- Cover Photo -->
-<img src="https://i.ibb.co/xqWHkP1n/github-bannar.png" alt="Cover" width="100%" />
+<img src="https://i.ibb.co/20yf0DcL/jahan-github.png" alt="Cover" width="100%" />
 
 
 ## 🚀 About Me
 
-<p>I’m Tauhidur Rahman, a passionate MERN Stack Developer from Bangladesh. I love building full-stack web applications that solve real-world problems. I enjoy learning new technologies, collaborating on open-source projects, and continuously improving my skills to create clean, scalable, and efficient code that makes a meaningful impact.</p>
+<p>I'm Jahangir Alam, a passionate MERN Stack Developer from Bangladesh. I build full-stack web apps to solve real-world problems. I love learning new technologies, contributing to open-source, and writing clean, scalable code. My goal is to create meaningful digital solutions and give back to the developer community.</p>
 
 
 ## 🚀 Currently, 
@@ -26,13 +26,13 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tauhid25&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="300" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahangir-alam25&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="300" height="200"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tauhid25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Jahangir-alam25&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="300" height="200"/>
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tauhid25&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="300" height="200"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahangir-alam25&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="300" height="200"/>
       </td>
     </tr>
   </table>
@@ -42,10 +42,10 @@
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tauhidbd789/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/tauhidurrahmanbd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jahangir-alam-3111b9344/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.jahangir.67489)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Tauhidbd789)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jahangir9292)
 
 
 
